@@ -1,0 +1,15 @@
+:root {
+   --textcolor : red ;
+}
+#ee1 {color:var(--textcolor)}
+.huy {
+width: 100px; ;
+height: 100px;
+background-color: rgb(26, 217, 176);
+}
+html{
+    font-size: 40px;
+}
+h1 {
+font-size: 0.5rem;
+}
